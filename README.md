@@ -1,6 +1,6 @@
 # Elevate-Labs-Internship-Task8_Simple_Sales_Dashboard_Design
 
-# Data Analyst Internship - Task 8: Simple Sales Dashboard Design
+# Task 8: Simple Sales Dashboard Design
 
 ## Overview
 This repository contains the deliverables for Task 8 of the Data Analyst Internship with Elevate & Labs. The task involved creating a basic interactive dashboard to visualize sales performance by product category, region, and month using Tableau.
