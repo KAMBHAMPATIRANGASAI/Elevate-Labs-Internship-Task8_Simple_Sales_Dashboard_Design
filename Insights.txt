@@ -1,0 +1,4 @@
+Insights:
+1. The West region recorded the highest total sales at approximately 730,000, making it the top-performing region.
+2. The Technology category contributed the largest share of sales at 36.39%, followed by Furniture at 32.69%.
+3. Sales peaked in November and December, with a noticeable dip in February, indicating seasonal trends.
